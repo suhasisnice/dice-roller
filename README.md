@@ -29,10 +29,9 @@ Requirements
 
 How to Run
 ----------
-1. Save the file as dice.py
-2. Open terminal in the project directory
-3. Run:
-   python dice.py
+1. Open a terminal in the project directory
+2. Run:
+   python diceroller.py
 
 Example Output
 --------------
